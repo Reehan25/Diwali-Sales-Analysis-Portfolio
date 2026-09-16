@@ -61,3 +61,7 @@ The goal is to identify high-value customer segments, top-performing products, a
 ## 👤 Author
 
 **Reehan25**
+
+## 📊 Project Dashboard
+
+![Diwali Sales Analysis](Diwali%20Sales%20Analysis.png)
